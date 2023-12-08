@@ -1,7 +1,8 @@
 <H1 align="center">Portfolio</H1>
 
 <div align="center">
-  
+
+ [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
  [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
  
 </div>
